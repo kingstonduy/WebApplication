@@ -11,6 +11,27 @@ body{
     font-family: 'Libre Franklin', sans-serif;
 }
 
+.progress-bar {
+    display: flex;
+    align-items: center;
+    background-color: #ddd;
+    border-radius: 10px;
+    height: 20px;
+    width: 100%;
+  }
+  
+  .progress {
+    background-color: #4CAF50;
+    border-radius: 10px;
+    height: 100%;
+  }
+  .label {
+    margin-right: 10px;
+    font-size: 12px;
+    text-align: left;
+}
+  
+
 .header{
     background-color: #fffaf2;
     width: 100vw;
@@ -100,6 +121,8 @@ body{
     text-align: justify;
 }
 
+
+
 .section-profile{
     background-color: rgb(179, 199, 218);
 }
@@ -117,6 +140,8 @@ body{
 
 .section-profile__item__progress{
     margin-top: 90px;
+    width: 505px;
+    height: 500;
     display: flex;
     justify-content: space-between;
 }
@@ -166,7 +191,7 @@ body{
     content: '';
     background-color: #C66C49;
     position: absolute;
-    width: 381px;
+    width: 223px;
     height: 24px;
 }
 
@@ -206,7 +231,7 @@ body{
     content: '';
     background-color: #C66C49;
     position: absolute;
-    width: 351px;
+    width: 400px;
     height: 24px;
 }
 
@@ -221,7 +246,7 @@ body{
     content: '';
     background-color: #C66C49;
     position: absolute;
-    width: 286px;
+    width: 300px;
     height: 24px;
 }
 
@@ -783,7 +808,7 @@ body{
     .section-profile__item__progress-right{
         width: 250px;
         height: 240px;
-        margin-left: 0;
+        margin-left: 500;
     }
     .section-profile__item__progress-right-top{
         width: 290px;
