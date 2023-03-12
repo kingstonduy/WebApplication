@@ -32,4 +32,8 @@ the main .jsp file is CourseRegisteration.jsp NOT the index.html. Therefore pls 
 
 ### Contact
 pls contact me [here](https://www.facebook.com/kduyyy/) if u encounter any problem. Since the inbox is limited, i may not answer all of your question. Good luck next time.
+
+
+### Edit 1:113 AM 13/3/2023
+i unzipped the file :D 
   
