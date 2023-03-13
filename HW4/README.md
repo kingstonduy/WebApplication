@@ -37,7 +37,7 @@ Resolve conflict of the path of sql-connector.jar(this is the attached file in t
 The main .jsp file is CourseRegisteration.jsp NOT the index.html. Therefore pls run the  CourseRegisteration.jsp
 
 ### Contact
-Pls contact me [here](https://www.facebook.com/kduyyy/) if u encounter any problem. Since the inbox is limited, i may not answer all of your question. Good luck next time.
+Please contact me [here](https://www.facebook.com/kduyyy/) if u encounter any problem. Since the inbox is limited, i may not answer all of your question. Good luck next time.
 
 
 
