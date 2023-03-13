@@ -27,17 +27,17 @@ Go to Source Packages/connection/connectionDB.java. line 16 to change your host,
 
 ### Prepare DATA in mysql workbench
 create database name= "student_manager" (without quotation mark).
-use the attached sql queries in folder DATA_SET to create necessary tables. Remember to use the same name otherwise it will bug as shiet.
+Use the attached sql queries in folder DATA_SET to create necessary tables. Remember to use the same name otherwise it will bug as shiet.
 
 
 ###  Ressolve conflict
 resolve conflict of the path of sql-connector.jar(this is the attached file in the lab).
 
 ### Run web application
-the main .jsp file is CourseRegisteration.jsp NOT the index.html. Therefore pls run the  CourseRegisteration.jsp
+The main .jsp file is CourseRegisteration.jsp NOT the index.html. Therefore pls run the  CourseRegisteration.jsp
 
 ### Contact
-pls contact me [here](https://www.facebook.com/kduyyy/) if u encounter any problem. Since the inbox is limited, i may not answer all of your question. Good luck next time.
+Pls contact me [here](https://www.facebook.com/kduyyy/) if u encounter any problem. Since the inbox is limited, i may not answer all of your question. Good luck next time.
 
 
 
