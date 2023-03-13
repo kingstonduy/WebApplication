@@ -21,6 +21,7 @@
 
 DROP TABLE IF EXISTS `enroll`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
+use student_manager;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `enroll` (
   `sid` varchar(45) NOT NULL,
