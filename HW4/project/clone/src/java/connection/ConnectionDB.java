@@ -13,6 +13,6 @@ import java.sql.*;
 public class ConnectionDB {
     public static Connection getCon() throws ClassNotFoundException, SQLException{
         Class.forName("com.mysql.cj.jdbc.Driver");
-        return DriverManager.getConnection("jdbc:mysql://localhost:3306/student_manager", "root", "duy03032002");
+        return DriverManager.getConnection("jdbc:mysql://localhost:3306/student_manager", "root", "password");
     }
 }
