@@ -35,5 +35,5 @@ pls contact me [here](https://www.facebook.com/kduyyy/) if u encounter any probl
 
 
 ### Edit 1:113 AM 13/3/2023
-i unzipped the file :D 
+i unzipped the file :D  so just use netbeans to open project at path project\clone. Remember to resolve conflict of the path of sql-connector.jar(this is the attached file in the lab). Everything will be fine i guess :D.
   
