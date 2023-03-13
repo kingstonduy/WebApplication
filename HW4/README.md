@@ -27,7 +27,7 @@ go to Source Packages/connection/connectionDB.java
 line 16 to change your host, username add password
 
 ### Prepare DATA in mysql workbench
-create database name= "student_manager" (without quotes ).
+create database name= "student_manager" (without quotation mark).
 use the attached sql queries in folder DATA_SET to create necessary tables. Remember to use the same name otherwise it will bug as shiet
 
 
