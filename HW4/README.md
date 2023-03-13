@@ -26,12 +26,12 @@ Unzip the attached file project.zip and use netbeans to open it.
 Go to Source Packages/connection/connectionDB.java. line 16 to change your host, username add password.
 
 ### Prepare DATA in mysql workbench
-create database name= "student_manager" (without quotation mark).
+Create database name= "student_manager" (without quotation mark).
 Use the attached sql queries in folder DATA_SET to create necessary tables. Remember to use the same name otherwise it will bug as shiet.
 
 
 ###  Ressolve conflict
-resolve conflict of the path of sql-connector.jar(this is the attached file in the lab).
+Resolve conflict of the path of sql-connector.jar(this is the attached file in the lab).
 
 ### Run web application
 The main .jsp file is CourseRegisteration.jsp NOT the index.html. Therefore pls run the  CourseRegisteration.jsp
